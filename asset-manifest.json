@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React-Cryptocurrencies/static/css/main.d537aa5c.chunk.css",
-    "main.js": "/React-Cryptocurrencies/static/js/main.7147fbf7.chunk.js",
-    "main.js.map": "/React-Cryptocurrencies/static/js/main.7147fbf7.chunk.js.map",
+    "main.css": "/React-Cryptocurrencies/static/css/main.11027519.chunk.css",
+    "main.js": "/React-Cryptocurrencies/static/js/main.df4f939b.chunk.js",
+    "main.js.map": "/React-Cryptocurrencies/static/js/main.df4f939b.chunk.js.map",
     "runtime-main.js": "/React-Cryptocurrencies/static/js/runtime-main.8b5fcbe0.js",
     "runtime-main.js.map": "/React-Cryptocurrencies/static/js/runtime-main.8b5fcbe0.js.map",
     "static/js/2.05333f6b.chunk.js": "/React-Cryptocurrencies/static/js/2.05333f6b.chunk.js",
     "static/js/2.05333f6b.chunk.js.map": "/React-Cryptocurrencies/static/js/2.05333f6b.chunk.js.map",
     "index.html": "/React-Cryptocurrencies/index.html",
-    "static/css/main.d537aa5c.chunk.css.map": "/React-Cryptocurrencies/static/css/main.d537aa5c.chunk.css.map",
+    "static/css/main.11027519.chunk.css.map": "/React-Cryptocurrencies/static/css/main.11027519.chunk.css.map",
     "static/js/2.05333f6b.chunk.js.LICENSE.txt": "/React-Cryptocurrencies/static/js/2.05333f6b.chunk.js.LICENSE.txt",
     "static/media/cryptomonedas.51f1d2ed.png": "/React-Cryptocurrencies/static/media/cryptomonedas.51f1d2ed.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8b5fcbe0.js",
     "static/js/2.05333f6b.chunk.js",
-    "static/css/main.d537aa5c.chunk.css",
-    "static/js/main.7147fbf7.chunk.js"
+    "static/css/main.11027519.chunk.css",
+    "static/js/main.df4f939b.chunk.js"
   ]
 }
