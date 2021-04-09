@@ -17,7 +17,7 @@ export default function useCurrencies() {
       <Select onChange={(e) => setState(e.target.value)} value={state}>
         <option value="">-- Choose --</option>
         {data.map((item) => (
-          <option key={item.code} value={item.code}>
+          <option className="wrapper" key={item.code} value={item.code}>
             {item.name}
           </option>
         ))}
@@ -42,7 +42,7 @@ const Select = styled.select`
   width: 100%;
   display: block;
   padding: 1rem;
-  -webkit-appearance: none;
+  ${'' /* -webkit-appearance: none; */}
   border-radius: 10px;
   border: none;
   font-size: 1.2rem;
