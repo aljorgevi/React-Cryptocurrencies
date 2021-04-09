@@ -29,6 +29,9 @@ export default Price;
 const Div = styled.div`
   color: #fff;
   font-family: Arial, Helvetica, sans-serif;
+  margin-top: -70px;
+  margin-bottom: 40px;
+}
 `;
 
 const Info = styled.p`

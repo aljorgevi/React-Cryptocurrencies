@@ -65,8 +65,9 @@ const Button = styled.input`
   width: 100%;
   border-radius: 10px;
   color: #fff;
+  margin-bottom: 120px;
   transition: background-color 0.3s ease;
-  &:hover {
+  margin-buttom &:hover {
     background-color: #326ac0;
     cursor: pointer;
   }
