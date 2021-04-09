@@ -26,7 +26,7 @@ function App() {
         setLoading(false);
 
         setResult(response.data.DISPLAY[cryptocurrency][currency]);
-      }, 2000);
+      }2000);
     };
     requestAPI();
   }, [currency, cryptocurrency]);
